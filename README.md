@@ -1,2 +1,2 @@
-# xivquesttracker
-Final Fantasy XIV Quest Tracker
+# xivprogresstracker
+Final Fantasy XIV Progress Tracker
